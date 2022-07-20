@@ -2,9 +2,9 @@ import Pagination from 'tui-pagination';
 
 const options = {
   totalItems: 1000,
-  itemsPerPage: 10,
+  itemsPerPage: 20,
   visiblePages: 5,
-  page: 5,
+  page: 1,
   centerAlign: true,
   firstItemClassName: 'tui-first-child',
   lastItemClassName: 'tui-last-child',
